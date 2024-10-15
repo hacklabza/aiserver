@@ -1,4 +1,4 @@
 AIServer
 ========
 
-Experimental AI REST Server
+Experimental AI REST API Server
